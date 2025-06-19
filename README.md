@@ -20,4 +20,6 @@ Automatic Installation:
 4. Now you can just press play and enjoy the game!
 
 Virus scan:
-![Screenshot (32)](https://github.com/user-attachments/assets/bd85cc8c-d774-4058-a88c-ff3aedd7f36f)
+![Screenshot (33)](https://github.com/user-attachments/assets/7b81e9cb-9cf1-41ed-b81b-548cf5feb8a6)
+
+
