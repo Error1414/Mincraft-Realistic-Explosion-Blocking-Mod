@@ -19,3 +19,5 @@ Automatic Installation:
 3. Search upp "Realistic Explosion Blocking" in the datapack tab while in the profile you just created, press install right next to the datapack called "Realistic Explosion Blocking".
 4. Now you can just press play and enjoy the game!
 
+Virus scan:
+![Screenshot (32)](https://github.com/user-attachments/assets/bd85cc8c-d774-4058-a88c-ff3aedd7f36f)
