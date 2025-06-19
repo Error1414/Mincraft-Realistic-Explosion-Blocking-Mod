@@ -1,6 +1,8 @@
 # Mincraft-Realistic-Explosion-Blocking-Mod
 A lightweight pack for realism to prevent you from being bombarded through walls
 
+project page: **Coming**
+
 # **Tutorial**
 
 **Manual Installation:**
